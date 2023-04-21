@@ -12,18 +12,7 @@ Yes      Yes
 
 **Occurrences:** 1-n
 
-**Definition:** 
-
-A name to identify the data asset.
-
-The name might refer to the research activity/study that produced the asset and give an indication of its contents.
-
-Repeat if there other titles such as translations
-
-
-**Allowed values, examples, other constraints:**
-
-Free text.
+**Definition:** A name to identify the data asset. The name might refer to the research activity/study that produced the asset and give an indication of its contents. Repeat if there other titles such as translations.
 
 *Metadata fields:*
 
@@ -42,6 +31,7 @@ Free text.
 .. _3:
 
 DataCite 3 Title
+~~~~~~~~~~~~~~~~
 
 **Occurrences:** 1-n
 
