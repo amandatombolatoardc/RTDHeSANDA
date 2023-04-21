@@ -40,7 +40,8 @@ Property. May be a corporate/institutional or personal name. May also include af
 
 .. _2: 
 
- DataCite 2 Creator
+DataCite 2 Creator
+~~~~~~~~~~~~~~~~~~~
 
 **Occurrences:** 1-n
 
@@ -51,6 +52,11 @@ Property. May be a corporate/institutional or personal name. May also include af
 **Controlled vocabulary source** Nil
 
 **Notes**
+
+* The Creator should be whoever the Data Custodian thinks should receive credit/kudos for the work: Ie. the practice would they like to see in order to deliver credit to the people who put the work in.
+* If a trial has multiple authors on a publication for a trial, it is best practice to include everyone who had a hand in creating the dataset (as opposed to writing the paper).
+* The difference between Creator and Contributor is largely around the difference between who appears in the citation and who doesn’t. Whose role in the creation and management of the dataset was significant enough to warrant being cited?
+
 
 .. _2.1:
 
@@ -202,6 +208,7 @@ Examples:
 * German National Library of Science and Technology
 * DataCite
 
+**Notes**
 
 .. _2.5.a:
 
@@ -223,6 +230,8 @@ Examples:
 * https://ror.org/04aj4c181
 * https://isni.org/isni/0000000492299539
 
+**Notes**
+
 .. _2.5.b:
 
 DataCite 2.5.b affiliationIdentifierScheme
@@ -241,6 +250,7 @@ From the DataCite metadata schema:
 * ROR
 * ISNI
 
+**Notes**
 
 .. _2.5.c:
 
@@ -257,3 +267,5 @@ From the DataCite metadata schema:
 
 * https://ror.org/
 * https://isni.org/
+
+**Notes**
